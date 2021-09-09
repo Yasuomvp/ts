@@ -1,0 +1,27 @@
+wget https://github.com/ehang-io/nps/releases/download/v0.26.8/linux_amd64_server.tar.gz --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" --no-check-certificate
+
+tar-xvzf linux_amd64_server.tar.gz
+
+×××
+
+linux_amd64_server
+
+tar -zxvf linux_amd64_server.tar.gz
+
+nps install
+
+http://49.232.133.235:8080/
+
+./npc -server=49.232.133.235:8024 -vkey=123 -type=tcp
+
+npc.exe -server=49.232.133.235:8024 -vkey=131213 -type=tcp
+
+http://workout996.icu:10000/jerry_mouse_war_exploded/
+
+
+http://workout996.icu:10000/jerry_mouse_war_exploded/
+
+
+http://49.232.133.235:10000/jerry_mouse_war_exploded/HTML_PROJECT/index.html
+
+http://workout996.icu:10000/jerry_mouse_war_exploded/HTML_PROJECT/index.html
